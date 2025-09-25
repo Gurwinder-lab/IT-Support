@@ -31,4 +31,5 @@ With conditional Access and Without Conditional Access
 
 <img width="1356" height="640" alt="Compliance" src="https://github.com/user-attachments/assets/342312c0-91d2-4650-8309-348271609ff3" />
 
+Azure Entra ID
 
