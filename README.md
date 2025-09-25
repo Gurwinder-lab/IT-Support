@@ -31,5 +31,8 @@ With conditional Access and Without Conditional Access
 
 <img width="1356" height="640" alt="Compliance" src="https://github.com/user-attachments/assets/342312c0-91d2-4650-8309-348271609ff3" />
 
-Azure Entra ID
 
+Azure Entra ID
+<img width="1365" height="644" alt="Azure Entra ID" src="https://github.com/user-attachments/assets/2e6860a6-c9b7-4fc8-8a4e-26233ea9faf6" />
+
+Azure Entra ID is Microsoft's cloud based identity and access management(IAM) solution. It enables users to securely sign in and access resources. 
